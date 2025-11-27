@@ -1,4 +1,4 @@
-# 🛒 E-commerce Data Lake en AWS (RAW → STAGE → CONSUME + IA)
+# E-commerce Data Lake en AWS (RAW → STAGE → CONSUME)
 
 Proyecto personal de data engineering para simular el flujo analítico de un e-commerce en AWS:
 
