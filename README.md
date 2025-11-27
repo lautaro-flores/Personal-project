@@ -18,3 +18,4 @@ Construir un mini data lake de e-commerce que muestre, de punta a punta:
 3. Tabla CONSUME con features de clientes y productos.
 4. Un módulo simple de Analítica:
 ---
+<img width="988" height="385" alt="image" src="https://github.com/user-attachments/assets/d1734015-df9f-4f36-bc70-d847e4d93fb7" />
